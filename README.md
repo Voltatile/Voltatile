@@ -1,6 +1,6 @@
 ### Hi, I'm Filbert (`Voltatile`)
 
-Informatics student at Universitas Diponegoro (graduating Apr 2027) and **Astra1st 2026 Awardee**, focused on **Backend Systems, Applied AI/RAG, and Systems/Edge Engineering**.
+Informatics student at Universitas Diponegoro (graduating Apr 2027), focused on **Backend Systems, Applied AI/RAG, and Systems/Edge Engineering**.
 
 **Currently:**
 - Building **AOPI**, an enterprise RAG policy chatbot (`FastAPI · Celery · Redis · Qdrant · vLLM · Docker`) at PT Astra Otoparts Tbk.
